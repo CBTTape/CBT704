@@ -1,0 +1,11 @@
+2023-04-03 02:05:32.964295 - Initialized conversion of CBT704
+2023-04-03 02:05:33.034931 - Received CBT.V504.FILE704.PDS from FILE704.XMI 
+2023-04-03 02:05:33.037404 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE704.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:05:33.038834 - Found @FILE704.txt (text/plain) in CBT.V504.FILE704.PDS, moved to PDS/@FILE704
+2023-04-03 02:05:33.040024 - Found DRDASD.jcl (text/plain) in CBT.V504.FILE704.PDS, moved to PDS/DRDASD
+2023-04-03 02:05:33.041028 - Found JCL1.jcl (text/plain) in CBT.V504.FILE704.PDS, moved to PDS/JCL1
+2023-04-03 02:05:33.042014 - Found JCL2.jcl (text/plain) in CBT.V504.FILE704.PDS, moved to PDS/JCL2
+2023-04-03 02:05:33.043038 - Found README.txt (text/plain) in CBT.V504.FILE704.PDS, moved to PDS/README
+2023-04-03 02:05:33.044048 - Found R1.rexx (text/plain) in CBT.V504.FILE704.PDS, moved to PDS/R1
+2023-04-03 02:05:33.045625 - Found T1.rexx (text/plain) in CBT.V504.FILE704.PDS, moved to PDS/T1
+2023-04-03 02:05:33.046899 - Found T2.rexx (text/plain) in CBT.V504.FILE704.PDS, moved to PDS/T2
