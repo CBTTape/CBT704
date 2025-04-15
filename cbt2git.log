@@ -1,10 +1,10 @@
-2025-04-15 04:53:01.954977 - Received CBT.V508.FILE704.PDS from FILE704.XMI 
-2025-04-15 04:53:01.956047 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:53:01.956458 - Found @FILE704.txt (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/@FILE704
-2025-04-15 04:53:01.957146 - Found DRDASD.jcl (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/DRDASD
-2025-04-15 04:53:01.957464 - Found JCL1.jcl (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/JCL1
-2025-04-15 04:53:01.957770 - Found JCL2.jcl (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/JCL2
-2025-04-15 04:53:01.958178 - Found README.txt (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/README
-2025-04-15 04:53:01.958395 - Found R1.rexx (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/R1
-2025-04-15 04:53:01.958578 - Found T1.rexx (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/T1
-2025-04-15 04:53:01.958924 - Found T2.rexx (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/T2
+2025-04-15 23:33:23.405192 - Received CBT.V508.FILE704.PDS from FILE704.XMI 
+2025-04-15 23:33:23.406506 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:33:23.406567 - Found @FILE704.txt (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/@FILE704
+2025-04-15 23:33:23.407263 - Found DRDASD.jcl (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/DRDASD
+2025-04-15 23:33:23.407556 - Found JCL1.jcl (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/JCL1
+2025-04-15 23:33:23.407841 - Found JCL2.jcl (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/JCL2
+2025-04-15 23:33:23.408228 - Found README.txt (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/README
+2025-04-15 23:33:23.408453 - Found R1.rexx (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/R1
+2025-04-15 23:33:23.408640 - Found T1.rexx (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/T1
+2025-04-15 23:33:23.408980 - Found T2.rexx (text/plain) in CBT.V508.FILE704.PDS, moved to PDS/T2
